@@ -1,4 +1,4 @@
 ---
 title: Techtec Sonda
 ---
-Ahoj lidi
+Ahoj **lidi**
